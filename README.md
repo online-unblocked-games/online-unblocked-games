@@ -1,4 +1,12 @@
-## Hi there 👋
+## List of Unblocked Online Games
+
+- 💣 Bomberman
+  - [Arena mode](https://pixelbrawlgames.com/game/blast/r/arena) (io game style, playing against the whole internet)
+  - [Solo mode](https://pixelbrawlgames.com/game/blast/r/play)
+  - [Multiplayer](https://pixelbrawlgames.com/game/blast/] (invite your friend)
+- 🐍 Snake:
+  - [Solo mode](https://pixelbrawlgames.com/game/snake/r/play)
+  - [Multiplayer](https://pixelbrawlgames.com/game/snake/)
 
 <!--
 **online-unblocked-games/online-unblocked-games** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
