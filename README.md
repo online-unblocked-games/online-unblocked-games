@@ -1,10 +1,10 @@
 ## List of Unblocked Online Games
 
-- 💣 Bomberman
+- 💣 [Bomberman](https://pixelbrawlgames.com/game/blast/)
   - [Arena mode](https://pixelbrawlgames.com/game/blast/r/arena) (io game style, playing against the whole internet)
   - [Solo mode](https://pixelbrawlgames.com/game/blast/r/play)
-  - [Multiplayer](https://pixelbrawlgames.com/game/blast/] (invite your friend)
-- 🐍 Snake:
+  - [Multiplayer](https://pixelbrawlgames.com/game/blast/) (invite your friend)
+- 🐍 [Snake](https://pixelbrawlgames.com/game/snake/):
   - [Solo mode](https://pixelbrawlgames.com/game/snake/r/play)
   - [Multiplayer](https://pixelbrawlgames.com/game/snake/)
 
